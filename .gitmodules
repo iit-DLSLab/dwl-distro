@@ -1,0 +1,15 @@
+[submodule "dwl"]
+	path = dwl
+	url = https://github.com/iit-DLSLab/dwl.git
+[submodule "dwl-msgs"]
+	path = dwl-msgs
+	url = https://github.com/iit-DLSLab/dwl-msgs.git
+[submodule "dwl-rviz-plugin"]
+	path = dwl-rviz-plugin
+	url = https://github.com/iit-DLSLab/dwl-rviz-plugin.git
+[submodule "terrain-server"]
+	path = terrain-server
+	url = https://github.com/iit-DLSLab/terrain-server.git
+[submodule "wb-state-publisher"]
+	path = wb-state-publisher
+	url = https://github.com/iit-DLSLab/wb-state-publisher.git
