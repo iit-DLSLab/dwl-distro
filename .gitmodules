@@ -1,6 +1,3 @@
-[submodule "terrain_server"]
-	path = terrain_server
-	url = git@github.com:robot-locomotion/terrain-server.git
 [submodule "wb_state_publisher"]
 	path = wb_state_publisher
 	url = git@github.com:robot-locomotion/wb-state-publisher.git
