@@ -1,6 +1,3 @@
-[submodule "dwl_msgs"]
-	path = dwl_msgs
-	url = git@github.com:robot-locomotion/dwl-msgs.git
 [submodule "dwl_rviz_plugin"]
 	path = dwl_rviz_plugin
 	url = git@github.com:robot-locomotion/dwl-rviz-plugin.git
