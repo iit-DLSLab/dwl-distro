@@ -1,6 +1,3 @@
-[submodule "dwl"]
-	path = dwl
-	url = git@github.com:robot-locomotion/dwl.git
 [submodule "dwl_msgs"]
 	path = dwl_msgs
 	url = git@github.com:robot-locomotion/dwl-msgs.git
